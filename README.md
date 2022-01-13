@@ -6,7 +6,7 @@ I learnt and had experiences on how to design, write and debug program using the
 2. App Development with MIT App Inventor 2 : https://github.com/BryanNguyenNgo/MITAppInventor
 I learnt and had experiences building interactive mobile apps run on Android devices. I understood block-based coding and upload of application file and installation onto Android devices. During this course, I created fun and interesting apps e.g Flappy Bird, BMI Calculation and a Pitch Trainer.
 
-3. Web Development with HTML 5, CSS 3 & Bootstrap : https://github.com/BryanNguyenNgo/Python
+3. Web Development with HTML 5, CSS 3 & Bootstrap : https://github.com/BryanNguyenNgo/HTML
 I understood the elements involved in the creations of webpages, and how to organise elements of webpages. I created my own unique portfolio webpages using Cascading Style Sheets and bootstrap, responsive and reactive Carousels and Cards as well as real-world theme e-commerce and blog post.
 
 4. Computer Science Advanced with Python 3:https://github.com/BryanNguyenNgo/Python
