@@ -1,4 +1,4 @@
-I have been learning how to code for five years, these are some of the projects I have done.
+I have been learning to code for five years, and these are some of the projects I have completed.
 
 Secondary school projects:
 1. SwiftUI app: https://github.com/BryanNguyenNgo/KeepYourSleep
