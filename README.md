@@ -6,6 +6,7 @@ I made an app for teenagers to sleep better for a STEM project for school. The a
 
 2. AWS Accelerator Program: https://github.com/BryanNguyenNgo/AWSAcceleratorProgram
 I attended an accelerator program to learn about AWS's cloud services and how they are used in our daily lives. My team had to solve a problem of how to alleviate manpower problems in Seoul Garden outlets and we created a front-desk application to smoothen and make the ordering process at Seoul Garden so employees will not have to be at the front desk all the time.
+This is the link of the application's demonstration video: https://youtu.be/iOzdBPGXcEQ
 
 Primary school projects:
 1. Robotics with mBot: https://github.com/BryanNguyenNgo/Mbot
