@@ -8,6 +8,9 @@ I made an app for teenagers to sleep better for a STEM project for school. The a
 I attended an accelerator program to learn about AWS's cloud services and how they are used in our daily lives. My team had to solve a problem of how to alleviate manpower problems in Seoul Garden outlets and we created a front-desk application to smoothen and make the ordering process at Seoul Garden so employees will not have to be at the front desk all the time.
 This is the link of the application's demonstration video: https://youtu.be/iOzdBPGXcEQ
 
+3. Swift Accelerator Program: https://github.com/Bryan-SAP-Apps
+I attended the Swift Accelerator Program to learn about coding with SwiftUI to build apps. We built 3 apps over the course of 8 months with our final app being published on the App Store. 
+
 Primary school projects:
 1. Robotics with mBot: https://github.com/BryanNguyenNgo/Mbot
 I learnt and had experiences on how to design, write and debug program using the Makeblock software to help mBot to complete missions and challenges. For examples, differentiate colours, perform line-following shapes such as number 8-shaped or letter T-shaped, complex movement and avoid obstacles.
