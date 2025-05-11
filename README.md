@@ -1,16 +1,23 @@
 I have been learning programming for the past six years, and these are some of the projects I have completed during that time.
 
+This portfolio showcases my key projects and learning experiences during secondary school, with a focus on software development and real-world problem solving. Below is a timeline of my major projects, followed by detailed descriptions.
+
+
 # Secondary School Projects
 
-## 1. KeepYourSleep (SwiftUI App)
-[GitHub Repository](https://github.com/BryanNguyenNgo/KeepYourSleep)
+---
 
-As part of a school STEM project, I developed **KeepYourSleep**, a SwiftUI app designed to help teenagers build healthier sleep habits.  
-The app includes features such as:
-- A reward-based shop to motivate consistent sleep routines
-- Practical tips for improving sleep quality
+## 📅 Project Timeline
 
-## 2. AWS Accelerator Program
+| Time Period      | Project                        | Description |
+|------------------|--------------------------------|-------------|
+| Sec 3 (2023)| AWS Accelerator Program        | Participated in a cloud-focused program, creating a solution for manpower issues at Seoul Garden restaurants. |
+| Sec 3 (Mid 2023) | KeepYourSleep                  | Developed a SwiftUI app to promote healthy sleep habits among teenagers as part of a school STEM initiative. |
+| Sec 4 (2024)     | Swift Accelerator Program      | Completed an 8-month app development program, culminating in an App Store-published project. |
+
+---
+
+## 1. AWS Accelerator Program
 [GitHub Repository](https://github.com/BryanNguyenNgo/AWSAcceleratorProgram)  
 [Demonstration Video](https://youtu.be/iOzdBPGXcEQ)
 
@@ -22,12 +29,30 @@ The solution aimed to:
 - Reduce the need for staff at the front desk
 - Improve efficiency during peak hours
 
+  
+## 2. KeepYourSleep (SwiftUI App)
+[GitHub Repository](https://github.com/BryanNguyenNgo/KeepYourSleep)
+
+As part of a school STEM project, I developed **KeepYourSleep**, a SwiftUI app designed to help teenagers build healthier sleep habits.  
+The app includes features such as:
+- A reward-based shop to motivate consistent sleep routines
+- Practical tips for improving sleep quality
+
+
+
 ## 3. Swift Accelerator Program
 [GitHub Repository](https://github.com/Bryan-SAP-Apps)
 
 I attended the **Swift Accelerator Program**, an 8-month program focused on app development using Swift and SwiftUI.  
 Over the course of the program, we developed three apps, with our final app being published on the App Store.  
-This experience strengthened my understanding of user interface design, app architecture, and the full development cycle.
+This experience strengthened my understanding of:
+- User interface design
+- App architecture
+- The full development cycle
+
+---
+
+
 
 
 Primary school projects:
