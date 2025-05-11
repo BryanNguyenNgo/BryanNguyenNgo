@@ -1,15 +1,34 @@
-I have been learning to code for five years, and these are some of the projects I have completed.
+I have been learning programming for the past six years, and these are some of the projects I have completed during that time.
 
-Secondary school projects:
-1. SwiftUI app: https://github.com/BryanNguyenNgo/KeepYourSleep
-I made an app for teenagers to sleep better for a STEM project for school. The app has features like a shop to make teenagers want to sleep more and tips to help them have a good night's rest.
+# Secondary School Projects
 
-2. AWS Accelerator Program: https://github.com/BryanNguyenNgo/AWSAcceleratorProgram
-I attended an accelerator program to learn about AWS's cloud services and how they are used in our daily lives. My team had to solve a problem of how to alleviate manpower problems in Seoul Garden outlets and we created a front-desk application to smoothen and make the ordering process at Seoul Garden so employees will not have to be at the front desk all the time.
-This is the link of the application's demonstration video: https://youtu.be/iOzdBPGXcEQ
+## 1. KeepYourSleep (SwiftUI App)
+[GitHub Repository](https://github.com/BryanNguyenNgo/KeepYourSleep)
 
-3. Swift Accelerator Program: https://github.com/Bryan-SAP-Apps
-I attended the Swift Accelerator Program to learn about coding with SwiftUI to build apps. We built 3 apps over the course of 8 months with our final app being published on the App Store. 
+As part of a school STEM project, I developed **KeepYourSleep**, a SwiftUI app designed to help teenagers build healthier sleep habits.  
+The app includes features such as:
+- A reward-based shop to motivate consistent sleep routines
+- Practical tips for improving sleep quality
+
+## 2. AWS Accelerator Program
+[GitHub Repository](https://github.com/BryanNguyenNgo/AWSAcceleratorProgram)  
+[Demonstration Video](https://youtu.be/iOzdBPGXcEQ)
+
+I participated in the **AWS Accelerator Program**, where I gained hands-on experience with AWS cloud services and their real-world applications.  
+
+In a team project, we addressed manpower challenges at Seoul Garden restaurants by developing a front-desk web application.  
+The solution aimed to:
+- Streamline the ordering process
+- Reduce the need for staff at the front desk
+- Improve efficiency during peak hours
+
+## 3. Swift Accelerator Program
+[GitHub Repository](https://github.com/Bryan-SAP-Apps)
+
+I attended the **Swift Accelerator Program**, an 8-month program focused on app development using Swift and SwiftUI.  
+Over the course of the program, we developed three apps, with our final app being published on the App Store.  
+This experience strengthened my understanding of user interface design, app architecture, and the full development cycle.
+
 
 Primary school projects:
 1. Robotics with mBot: https://github.com/BryanNguyenNgo/Mbot
