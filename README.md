@@ -7,7 +7,7 @@ This portfolio showcases my key projects and learning experiences during seconda
 
 ---
 
-## 📅 Project Timeline
+## 📅 Timeline
 
 | Time Period      | Project                        | Description |
 |------------------|--------------------------------|-------------|
