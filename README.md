@@ -1,3 +1,5 @@
+**My Digital Portfolio**
+
 I have been learning programming for the past six years, and these are some of the projects I have completed during that time.
 
 This portfolio showcases my key projects and learning experiences during secondary school, with a focus on software development and real-world problem solving. Below is a timeline of my major projects, followed by detailed descriptions.
