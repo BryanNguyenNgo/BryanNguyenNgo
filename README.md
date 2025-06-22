@@ -1,4 +1,4 @@
-**My Digital Portfolio**
+## My Digital Portfolio ##
 
 I have been learning programming for the past six years, and these are some of the projects I have completed during that time.
 
